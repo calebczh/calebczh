@@ -4,6 +4,7 @@
 * 📱   I like to explore data to drive insights and innovations!
 * 🧑‍💻   I aspire to be a Data Scientist!
 
+
 ### Project Presentations Gallery 
 ----
 * Data Science
@@ -13,6 +14,7 @@
 
 * Software Engineering
   * [Web-based Application for Initiating and Joining Sports Events](https://youtu.be/QcDMia40l3M) (NTU SC2006 Software Engineering Project)
+
 
 Learn More!
 ----
